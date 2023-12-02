@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209536154211",
+    "project_id": "myfirebaseloginexsapps",
+    "storage_bucket": "myfirebaseloginexsapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209536154211:android:6bdc02e3c80b3d07695656",
+        "android_client_info": {
+          "package_name": "com.biniyam.firbaseloginappexercise1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209536154211-1kn7ciokvfees116cp9bjtft7jei7jrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biniyam.firbaseloginappexercise1",
+            "certificate_hash": "79dd36fbe69a63e7901bab4e24d1c7c5f001edd5"
+          }
+        },
+        {
+          "client_id": "209536154211-6bvmo1kosuggkd5fiunno4rcikhq0h1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCby98tGrOR66XsHKtVOq6IxVGr_U3BWcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209536154211-6bvmo1kosuggkd5fiunno4rcikhq0h1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

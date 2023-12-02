@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirbaseLoginAppExercise1</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="WEB_CLIENT_ID">604242962033-99u2it4tpnq0b2vlp26213idadtgpgfb.apps.googleusercontent.com</string>
+</resources>
